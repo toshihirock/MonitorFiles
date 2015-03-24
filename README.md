@@ -5,7 +5,7 @@
 + Ruby
 + bundle
 
-# run on Jenkins job
+# Run on Jenkins job
 
 ```
 #!/bin/bash -e
