@@ -3,12 +3,11 @@
 # Require
 
 + Ruby
-+ bundle
 
 # Run
 
 ```
-#!/bin/bash -e
+gem install bundle
 bundle install
 bundle exec rake
 ```
