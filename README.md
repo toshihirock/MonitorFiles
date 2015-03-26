@@ -18,7 +18,7 @@ bundle exec rake
 
 ![exapmle](https://raw.githubusercontent.com/wiki/toshihirock/MonitorFiles/images/jenkins-job.png)
 
-+ If you want to output XML test format that Jenkins can read,set **JENKINS** environment.
++ If you want to output XML format that Jenkins can read,set **JENKINS** environment.
 
 ```
 # run
